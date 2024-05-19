@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application debug</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="avatar_description">用户头像</string>
+    <string name="sos_button">SOS紧急呼叫</string>
+    <string name="health_report">健康报告</string>
+    <string name="medicine_reminder">Medicine Reminder</string>
+    <string name="title_DeviceInfo">Notifications</string>
+    <string name="title_device_info">设备信息</string>
+    <string name="description_iv_steps">Steps tracker icon</string>
+    <string name="description_iv_heart_rate">Heart rate monitor icon</string>
+    <string name="description_iv_sleep">Sleep monitor icon</string>
+    <string name="description_btn_language_ph">Switch to Philippine language</string>
+    <string name="description_img_location">Location icon</string>
+    <!-- Other string definitions -->
+    <string name="health_advice_title">健康建议</string>
+    <string name="description_btn_language_en">Switch to English language</string>
+    <string name="药物提醒" />
+</resources>
